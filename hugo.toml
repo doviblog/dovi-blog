@@ -1,0 +1,109 @@
+baseURL = "https://dovi-blog.pages.dev"
+languageCode = "id"
+title = "Dovi - Tutorial AI & Tech Indonesia"
+theme = "PaperMod"
+[pagination]
+  pagerSize = 10
+
+[params]
+  author = "Dovi"
+  description = "Tutorial AI Agent, Tech Review, dan Tips Productivity untuk Developer Indonesia"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = false
+  comments = false
+  
+  [params.homeInfoParams]
+    Title = "Halo, Dovi di sini 👋"
+    Content = "Tutorial AI, Tech Review, dan Tips Productivity untuk Developer Indonesia. Belajar AI Agent, automation, dan tools terbaru."
+
+  [[params.socialIcons]]
+    name = "telegram"
+    url = "https://t.me/dovi"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/doviblog"
+
+  [params.editPost]
+    URL = ""
+    Text = "Edit post"
+    appendFilePath = true
+
+  [params.assets]
+    disableHLJS = false
+    favicon = "/favicon.ico"
+    favicon16x16 = "/favicon-16x16.png"
+    favicon32x32 = "/favicon-32x32.png"
+    apple_touch_icon = "/apple-touch-icon.png"
+    android_chrome192 = "/android-chrome-192x192.png"
+    android_chrome512 = "/android-chrome-512x512.png"
+    logo = "/logo.png"
+
+  [params.cover]
+    hidden = false
+    hiddenInList = false
+    hiddenInSingle = false
+
+[outputs]
+  home = ["HTML", "RSS", "JSON", "sitemap"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    lineNos = false
+    style = "monokai"
+
+[menu]
+  [[menu.main]]
+    identifier = "ai-agent"
+    name = "AI Agent"
+    url = "/categories/ai-agent/"
+    weight = 10
+  [[menu.main]]
+    identifier = "tech-review"
+    name = "Tech Review"
+    url = "/categories/tech-review/"
+    weight = 20
+  [[menu.main]]
+    identifier = "tutorial"
+    name = "Tutorial"
+    url = "/categories/tutorial/"
+    weight = 30
+  [[menu.main]]
+    identifier = "search"
+    name = "🔍 Search"
+    url = "/search/"
+    weight = 40
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 50
+  [[menu.main]]
+    identifier = "privacy"
+    name = "Privacy"
+    url = "/privacy-policy/"
+    weight = 60
+
+[sitemap]
+  changefreq = "daily"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[minify]
+  disableCSS = false
+  disableHTML = false
+  disableJS = false
+  disableSVG = false
+  removeComments = true
