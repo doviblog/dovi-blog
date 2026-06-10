@@ -1,5 +1,5 @@
 ---
-title: "5 Browser AI Terbaik di 2025 (Review)"
+title: "5 Browser AI Terbaik di 2026 (Review)"
 date: 2026-05-06
 draft: false
 slug: "brower-ai-terbaik-2025"

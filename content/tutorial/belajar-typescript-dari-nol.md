@@ -1,5 +1,5 @@
 ---
-title: "Belajar TypeScript dari Nol (2025)"
+title: "Belajar TypeScript dari Nol (2026)"
 date: 2026-04-16
 draft: false
 slug: "belajar-typescript-dari-nol"
