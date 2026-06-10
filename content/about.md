@@ -20,7 +20,7 @@ Saya percaya teknologi harus accessible untuk semua. Di sini, saya tulis tutoria
 
 ### Kontak
 
-- Telegram: [@dovi](https://t.me/dovi)
+- Telegram: [@dovi](kontak@dovi.my.id)
 - GitHub: [doviblog](https://github.com/doviblog)
 
 ---

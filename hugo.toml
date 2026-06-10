@@ -23,8 +23,6 @@ theme = "PaperMod"
     Content = "Tutorial AI, Tech Review, dan Tips Productivity untuk Developer Indonesia. Belajar AI Agent, automation, dan tools terbaru."
 
   [[params.socialIcons]]
-    name = "telegram"
-    url = "https://t.me/dovi"
 
   [[params.socialIcons]]
     name = "github"

@@ -27,7 +27,7 @@ Ada pertanyaan, saran, atau ingin kolaborasi? Jangan ragu untuk menghubungi saya
   <label for="message">Pesan</label><br/>
   <textarea id="message" name="message" rows="6" placeholder="Tulis pesan kamu di sini..." style="width:100%;padding:10px;margin:8px 0;border:1px solid #ccc;border-radius:6px;font-size:14px;"></textarea><br/><br/>
 
-  <button type="button" onclick="alert('Form ini belum aktif. Silakan hubungi via Telegram atau GitHub.')" style="background:#2563eb;color:#fff;padding:12px 30px;border:none;border-radius:6px;font-size:15px;cursor:pointer;">Kirim Pesan</button>
+  <button type="button" onclick="alert('Form ini belum aktif. Silakan hubungi via email atau GitHub.')" style="background:#2563eb;color:#fff;padding:12px 30px;border:none;border-radius:6px;font-size:15px;cursor:pointer;">Kirim Pesan</button>
 </form>
 
 > **Note:** Form di atas hanya UI demo. Untuk respon cepat, hubungi saya lewat channel di bawah ini.
@@ -38,7 +38,7 @@ Ada pertanyaan, saran, atau ingin kolaborasi? Jangan ragu untuk menghubungi saya
 
 **Telegram**
 Chat langsung lewat Telegram — biasanya saya balas dalam hitungan jam.
-👉 [@dovi](https://t.me/dovi)
+👉 [@dovi](kontak@dovi.my.id)
 
 **GitHub**
 Lihat project saya, buat issue, atau kirim pull request.

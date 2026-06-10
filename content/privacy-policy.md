@@ -73,7 +73,7 @@ Kebijakan privasi ini dapat diperbarui sewaktu-waktu tanpa pemberitahuan sebelum
 
 Jika kamu memiliki pertanyaan tentang kebijakan privasi ini, silakan hubungi melalui:
 
-- **Telegram:** [@dovi](https://t.me/dovi)
+- **Telegram:** [@dovi](kontak@dovi.my.id)
 - **GitHub:** [doviblog](https://github.com/doviblog)
 - **Email:** kontak@dovi.my.id
 

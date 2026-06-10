@@ -592,4 +592,4 @@ Next steps:
 - Buat admin panel untuk manage users
 - Tambahin subscription model untuk monetize
 
-**Need help?** DM aku di Telegram [@dovi](https://t.me/dovi)
+**Need help?** DM aku di Telegram [@dovi](kontak@dovi.my.id)

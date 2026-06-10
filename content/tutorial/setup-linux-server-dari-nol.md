@@ -607,4 +607,4 @@ Setup Linux server dari nol itu kayak masak rendang — banyak step, tapi hasiln
 
 Jangan lupa: security itu process, bukan one-time setup. Update server secara berkala, monitor logs, dan review security config.
 
-Ada pertanyaan soal server setup? Chat aku di [Telegram](https://t.me/dovi), seru kalau bisa bahas bareng!
+Ada pertanyaan soal server setup? Chat aku di [Telegram](kontak@dovi.my.id), seru kalau bisa bahas bareng!

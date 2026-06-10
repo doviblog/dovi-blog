@@ -262,4 +262,4 @@ AI di browser bukan gimmick lagi — ini fitur yang beneran nambah productivity.
 
 Coba salah satu dari list ini selama seminggu. Kalau gak cocok, coba yang lain. Setiap orang punya preference beda.
 
-Udah coba browser AI? Mana favorit kamu? Chat aku di [Telegram](https://t.me/dovi)!
+Udah coba browser AI? Mana favorit kamu? Chat aku di [Telegram](kontak@dovi.my.id)!

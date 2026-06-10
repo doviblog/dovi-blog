@@ -360,4 +360,4 @@ Cara paling gampang pakai ChatGPT di WhatsApp itu pakai bot siap pakai. Tapi kal
 
 Kalau tertarik bikin bot di platform lain, coba juga tutorial [cara build Telegram bot AI](/tutorial/cara-build-telegram-bot-ai-nodejs) yang udah aku tulis di blog ini.
 
-**Butuh bantuan?** Chat aku di Telegram [@dovi](https://t.me/dovi)
+**Butuh bantuan?** Chat aku di Telegram [@dovi](kontak@dovi.my.id)

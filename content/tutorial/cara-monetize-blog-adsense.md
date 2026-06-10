@@ -434,7 +434,7 @@ Yang terpenting: fokus ke kualitas konten dan user experience. Revenue bakal dat
 
 Mulai dari bikin konten yang bermanfaat, improve terus, dan revenue bakal ngikutin.
 
-Mau tanya soal monetization? Atau mau share pengalaman kamu? Chat aku di [Telegram](https://t.me/dovi)!
+Mau tanya soal monetization? Atau mau share pengalaman kamu? Chat aku di [Telegram](kontak@dovi.my.id)!
 
 **Artikel terkait:**
 - [Rahasia SEO 2025: Traffic 100K](/tutorial/rahasia-seo-2025-traffic-100k/)
