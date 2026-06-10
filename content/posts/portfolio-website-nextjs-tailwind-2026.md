@@ -396,4 +396,4 @@ Bikin portfolio website itu nggak harus ribet atau mahal. Dengan Next.js dan Tai
 
 Setelah website live, fokus di konten: tambahkan proyek-proyek terbaikmu, tulis deskripsi yang compelling, dan update secara rutin. Portfolio kamu adalah investasi jangka panjang untuk karir di tech.
 
-Kalau ada pertanyaan atau butuh bantuan, jangan ragu buat DM di Telegram. Happy coding! 🚀
+Kalau ada pertanyaan atau butuh bantuan, jangan ragu buat email aku di [kontak@dovi.my.id](mailto:kontak@dovi.my.id). Happy coding! 🚀

@@ -393,4 +393,4 @@ Kuncinya:
 
 Untuk developer di Indonesia yang kerja remote untuk klien luar negeri, Cursor ini investment yang sangat terukur. Kalau kamu hemat 2 jam/hari dari coding, itu 40 jam/bulan yang bisa dipakai untuk side project atau istirahat.
 
-**Butuh bantuan setup?** DM di Telegram!
+**Butuh bantuan setup?** Email aku di [kontak@dovi.my.id](mailto:kontak@dovi.my.id)!

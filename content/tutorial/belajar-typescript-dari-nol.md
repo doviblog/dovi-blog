@@ -554,4 +554,4 @@ TypeScript itu skill wajib buat JavaScript developer di 2025. Learning curve-nya
 
 Mulai dari project kecil: convert satu file JavaScript ke TypeScript, terus expand. Jangan langsung convert semua sekaligus — nanti overwhelmed.
 
-Semangat belajar! Kalau ada pertanyaan, chat aku di [Telegram](kontak@dovi.my.id). Aku sering share tips TypeScript di sana.
+Semangat belajar! Kalau ada pertanyaan, chat aku di [kontak@dovi.my.id](mailto:kontak@dovi.my.id). Aku sering share tips TypeScript di sana.

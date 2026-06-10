@@ -374,4 +374,4 @@ Deploy AI agent ke production gak serumit yang dibayangkan. Dengan Docker, envir
 
 Mulai dari langkah kecil — dockerize, deploy ke staging, test, lalu push ke production. Iterasi terus berdasarkan feedback dari user.
 
-**Butuh bantuan deploy?** DM di Telegram!
+**Butuh bantuan deploy?** Email aku di [kontak@dovi.my.id](mailto:kontak@dovi.my.id)!

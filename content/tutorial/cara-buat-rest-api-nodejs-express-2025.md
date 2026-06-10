@@ -393,4 +393,4 @@ Dalam waktu singkat, kamu udah punya REST API yang functional dengan Express. Da
 
 Kalau kamu tertarik bikin API yang lebih advanced dengan AI integration, cek juga tutorial [cara membuat AI agent pertama](/ai-agent/cara-membuat-ai-agent-pertama/) yang bisa kamu integrasikan sama API yang baru kamu bikin ini.
 
-**Butuh bantuan?** DM di Telegram!
+**Butuh bantuan?** Email aku di [kontak@dovi.my.id](mailto:kontak@dovi.my.id)!

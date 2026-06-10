@@ -523,4 +523,4 @@ Untuk enterprise dengan explicit pipeline control: **Haystack**.
 
 Yang terpenting: framework itu tool. Yang bikin bagus atau jelek itu cara kamu pakainya. Pahami fundamentals-nya dulu (embeddings, retrieval, prompt engineering), framework-nya ganti-ganti gampang.
 
-Mau diskusi framework mana yang cocok buat project kamu? Chat aku di [Telegram](kontak@dovi.my.id)!
+Mau diskusi framework mana yang cocok buat project kamu? Chat aku di [kontak@dovi.my.id](mailto:kontak@dovi.my.id)!

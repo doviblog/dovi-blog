@@ -743,4 +743,4 @@ Bisa. Ganti SDK OpenAI dengan Anthropic (Claude), Google (Gemini), atau bahkan m
 
 Deploy AI agent ke production gak serumit yang dibayangkan. Dengan Docker + Railway, kamu bisa live dalam 30 menit. Yang penting: mulai dari yang sederhana, test dengan user real, dan iterasi.
 
-**Butuh bantuan deploy?** DM di Telegram!
+**Butuh bantuan deploy?** Email aku di [kontak@dovi.my.id](mailto:kontak@dovi.my.id)!

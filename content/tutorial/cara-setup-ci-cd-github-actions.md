@@ -581,4 +581,4 @@ CI/CD itu investasi yang worth it banget. 30 menit setup, tapi hemat ratusan jam
 
 Mulai dari simple workflow dulu (test + lint), terus tambahin deploy steps. Gak harus langsung perfect.
 
-Mau nanya soal setup CI/CD di project kamu? Chat aku di [Telegram](kontak@dovi.my.id)!
+Mau nanya soal setup CI/CD di project kamu? Chat aku di [kontak@dovi.my.id](mailto:kontak@dovi.my.id)!

@@ -448,4 +448,4 @@ Membuat AI agent itu gak serumit yang dibayangkan. Dengan dasar Python dan API y
 
 Langkah selanjutnya, coba tambahin lebih banyak tools dan integrasi sama platform lain. Atau kalau mau langsung praktik, baca tutorial [cara bikin Telegram bot pakai AI](/tutorial/cara-build-telegram-bot-ai-nodejs/) untuk deploy agent kamu ke platform chat yang populer.
 
-**Pertanyaan?** Komen di bawah atau langsung chat aku di Telegram!
+**Pertanyaan?** Komen di bawah atau langsung email aku di [kontak@dovi.my.id](mailto:kontak@dovi.my.id)!

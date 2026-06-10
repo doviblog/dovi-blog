@@ -470,4 +470,4 @@ Next steps yang aku rekomendasiin:
 3. Monitor quality jawaban (bikin test set!)
 4. Scale ke production
 
-Mau sharing RAG project kamu? Chat aku di [Telegram](kontak@dovi.my.id), seru kalau bisa bahas bareng!
+Mau sharing RAG project kamu? Chat aku di [kontak@dovi.my.id](mailto:kontak@dovi.my.id), seru kalau bisa bahas bareng!

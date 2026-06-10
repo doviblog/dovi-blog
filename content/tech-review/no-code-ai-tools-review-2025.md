@@ -496,4 +496,4 @@ No-code AI tools udah jauh lebih capable dari tahun lalu. Kamu bisa bikin chatbo
 
 Tapi ingat: no-code punya limit. Kalau kamu butuh custom logic yang kompleks, tetep butuh coding. No-code itu pintu masuk, bukan tujuan akhir.
 
-Udah coba salah satu tools ini? Atau ada yang mau ditanyain? Chat aku di [Telegram](kontak@dovi.my.id)!
+Udah coba salah satu tools ini? Atau ada yang mau ditanyain? Chat aku di [kontak@dovi.my.id](mailto:kontak@dovi.my.id)!

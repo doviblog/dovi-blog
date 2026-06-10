@@ -415,4 +415,4 @@ Bikin REST API dengan Node.js dan Express itu ternyata nggak serumit yang dibaya
 
 Mulai dari project kecil. Bikin API untuk to-do list, catatan harian, atau apapun yang kamu butuhkan. Yang penting **mulai** dan **konsisten belajar**. Setelah basic-nya kuat, naik level ke authentication, testing otomatis, dan deployment ke cloud.
 
-Kalau ada pertanyaan atau stuck di step tertentu, jangan ragu buat DM di Telegram. Happy coding! 🚀
+Kalau ada pertanyaan atau stuck di step tertentu, jangan ragu buat email aku di [kontak@dovi.my.id](mailto:kontak@dovi.my.id). Happy coding! 🚀

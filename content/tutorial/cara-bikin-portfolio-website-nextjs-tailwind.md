@@ -668,4 +668,4 @@ Tambahkan folder `/blog` di app router dan pakai MDX untuk menulis konten markdo
 
 Portfolio yang bagus itu investasi waktu yang sangat worth it. Dalam 1 hari, kamu bisa punya website profesional yang bisa dipakai bertahun-tahun. Mulai dari yang sederhana, iterasi seiring waktu.
 
-**Butuh bantuan?** DM di Telegram!
+**Butuh bantuan?** Email aku di [kontak@dovi.my.id](mailto:kontak@dovi.my.id)!

@@ -445,6 +445,6 @@ Multi-agent orchestration itu powerful tapi bukan silver bullet. Mulai dari yang
 
 Paling penting: test thoroughly sebelum deploy production. Multi-agent system itu unpredictable — yang di dev environment bisa beda banget sama yang di production.
 
-Mau diskusi soal multi-agent architecture? Chat aku di [Telegram](kontak@dovi.my.id)!
+Mau diskusi soal multi-agent architecture? Chat aku di [kontak@dovi.my.id](mailto:kontak@dovi.my.id)!
 
 **Artikel selanjutnya:** [RAG 101: Build AI yang Bisa Akses Database](/ai-agent/rag-retrieval-augmented-generation/) — partner yang pas buat multi-agent system kamu.

@@ -531,7 +531,7 @@ Yang penting diinget:
 - Auto-classification document types
 - Integration dengan tools lain (Notion, Google Drive, Slack)
 
-Kalau ada pertanyaan atau stuck di step tertentu, jangan ragu buat tanya di Telegram aku ya! Happy coding! 💻🔥
+Kalau ada pertanyaan atau stuck di step tertentu, jangan ragu buat email aku di [kontak@dovi.my.id](mailto:kontak@dovi.my.id) ya! Happy coding! 💻🔥
 
 ---
 

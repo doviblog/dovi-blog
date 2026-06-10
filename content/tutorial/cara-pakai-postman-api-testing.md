@@ -550,4 +550,4 @@ Postman itu wajib dikuasain buat backend developer. Dari basic request sampai au
 
 Yang penting: jangan cuma test manual di browser/terminal. Automated tests itu investasi yang bikin kamu tidur nyenyak pas production deploy.
 
-Mau tanya tips Postman? Atau mau share collection kamu? Chat aku di [Telegram](kontak@dovi.my.id)!
+Mau tanya tips Postman? Atau mau share collection kamu? Chat aku di [kontak@dovi.my.id](mailto:kontak@dovi.my.id)!

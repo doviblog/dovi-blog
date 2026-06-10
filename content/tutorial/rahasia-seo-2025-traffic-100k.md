@@ -271,4 +271,4 @@ SEO di 2025 itu soal kualitas dan konsistensi. Gak ada shortcut, tapi dengan str
 4. Terus update dan improve — SEO itu marathon, bukan sprint
 5. Kasih value beneran — kalau konten kamu beneran bantu orang, ranking bakal ngikut sendiri
 
-**Mau aku bantu setup SEO untuk website kamu?** DM di Telegram!
+**Mau aku bantu setup SEO untuk website kamu?** Email aku di [kontak@dovi.my.id](mailto:kontak@dovi.my.id)!
